@@ -17,3 +17,7 @@ violetwinter
 $ ./codename
 gingerbrook
 ```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
